@@ -1,0 +1,5 @@
+{
+  "name": "CareFlow AI Hospital System",
+  "description": "A comprehensive hospital management dashboard integrated with Gemini 2.5 Flash for intelligent patient triage, summarization, and administrative assistance.",
+  "requestFramePermissions": []
+}
